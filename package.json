@@ -1,0 +1,14 @@
+{
+  "name": "open-url",
+  "version": "1.0.0",
+  "description": "open-url",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tutanck",
+  "license": "ISC",
+  "dependencies": {
+    "openurl": "1.1.1"
+  }
+}

@@ -49,3 +49,6 @@ async function start(url, min, max) {
 }
 
 start(URL, 30, 90);
+
+
+// https://www.npmjs.com/package/forever // todo later 
